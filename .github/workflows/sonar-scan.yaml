@@ -22,17 +22,17 @@ jobs:
         with:
           java-version: 17
 
-      # Cache SonarQube packages
+      # Cache SonarQube packages (updated to v2)
       - name: Cache SonarQube packages
-        uses: actions/cache@v1
+        uses: actions/cache@v2
         with:
           path: ~/.sonar/cache
           key: ${{ runner.os }}-sonar
           restore-keys: ${{ runner.os }}-sonar
 
-      # Cache Maven packages
+      # Cache Maven packages (updated to v2)
       - name: Cache Maven packages
-        uses: actions/cache@v1
+        uses: actions/cache@v2
         with:
           path: ~/.m2
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
