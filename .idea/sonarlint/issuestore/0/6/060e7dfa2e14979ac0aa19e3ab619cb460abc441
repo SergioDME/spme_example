@@ -1,0 +1,32 @@
+
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÿìØøÿÿÿÿ
+o
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¢šû
+o
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(©œÕ¤
+a
+java:S1192a"FDefine a constant instead of duplicating this literal "Arial" 3 times.(¸¡€àşÿÿÿÿ
+C
+java:S1604["(Make this anonymous inner class a lambda(¯¥÷æıÿÿÿÿ
+C
+java:S1604f"(Make this anonymous inner class a lambda(ñ£¹‘úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ï»
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+€
+java:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨ÿìØøÿÿÿÿ
+{
+java:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ì¢šû
+{
+java:S1149;"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©œÕ¤
+b
+java:S3252-"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+r
+java:S3252L"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(É…‰¨
+t
+java:S3252L"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(É…‰¨
+M
+java:S1128"7Remove this unused import 'project.MODEL.ParolaChiave'.(Ô©¥ï
+h
+java:S1128"MRemove this unused import 'project.struttureDiAppoggio.RigaTabellaMateriale'.(›©„ùÿÿÿÿ

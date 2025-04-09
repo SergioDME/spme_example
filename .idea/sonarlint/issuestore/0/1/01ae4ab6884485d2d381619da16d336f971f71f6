@@ -1,0 +1,16 @@
+
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕòÆ±
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+j
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢ÃîÃıÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Â±ìÿÿÿÿÿ
+e
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÖÑ°
+1
+java:S36265"Remove this redundant jump.(ûÁİ…
+1
+java:S36268"Remove this redundant jump.(ûÁİ…
+A
+java:S1168X"+Return an empty collection instead of null.(¥¹ï

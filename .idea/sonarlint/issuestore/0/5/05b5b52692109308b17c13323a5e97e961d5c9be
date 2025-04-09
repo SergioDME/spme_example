@@ -1,0 +1,26 @@
+
+\
+java:S1192>"FDefine a constant instead of duplicating this literal "Arial" 6 times.(ö¢ò
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÅ³Òùÿÿÿÿ
+>
+java:S1604q"(Make this anonymous inner class a lambda(¼‰‚ø
+D
+java:S1604…"(Make this anonymous inner class a lambda(ûæªÕøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ŽÏ»
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+g
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§Ç’ 
+d
+java:S3252+"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+T
+java:S3252~">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(ÙÊø½
+m
+java:S1128"WRemove this unused import 'project.DAO.DAOPostgres.CategoriaDiAppartenenzaDAOPostgres'.(ž¢–ì
+]
+java:S1128	"BRemove this unused import 'project.MODEL.CategoriaDiAppartenenza'.(Ìñ¹§üÿÿÿÿ
+K
+java:S1128
+"0Remove this unused import 'project.MODEL.Libro'.(êöôÛþÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'project.MODEL.ParolaChiave'.(Ô©¥ï

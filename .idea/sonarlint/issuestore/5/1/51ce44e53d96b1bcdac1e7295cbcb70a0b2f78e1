@@ -1,0 +1,43 @@
+
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(©‘‰ªşÿÿÿÿ
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼©ŠÖ
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üİï
+n
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ €P
+o
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(©œÕ¤
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åâß«ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ï»
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+€
+java:S11490"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©‘‰ªşÿÿÿÿ
+{
+java:S11493"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼©ŠÖ
+{
+java:S11496"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Üİï
+z
+java:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚ €P
+{
+java:S1149;"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©œÕ¤
+b
+java:S3252)"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+r
+java:S3252R"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(É…‰¨
+t
+java:S3252R"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(É…‰¨
+w
+java:S3252i"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(Åâß«ûÿÿÿÿ
+y
+java:S3252i"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(Åâß«ûÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'project.MODEL.Materiale'.(†î§ƒ
+M
+java:S1128"7Remove this unused import 'project.MODEL.ParolaChiave'.(Ô©¥ï
+h
+java:S1128"MRemove this unused import 'project.struttureDiAppoggio.RigaTabellaMateriale'.(›©„ùÿÿÿÿ
+I
+java:S1068".Remove this unused "controller" private field.(š·Âëüÿÿÿÿ

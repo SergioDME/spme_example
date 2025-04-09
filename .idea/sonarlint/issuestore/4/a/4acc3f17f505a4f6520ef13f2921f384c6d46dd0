@@ -1,0 +1,20 @@
+
+\
+java:S11928"FDefine a constant instead of duplicating this literal "Arial" 5 times.(Îô£¢
+>
+java:S16043"(Make this anonymous inner class a lambda(˜­ÍÞ
+C
+java:S1604<"(Make this anonymous inner class a lambda(û¸ô´øÿÿÿÿ
+>
+java:S1604F"(Make this anonymous inner class a lambda(Þ‰ø
+>
+java:S1604P"(Make this anonymous inner class a lambda(••ƒË
+C
+java:S1604Z"(Make this anonymous inner class a lambda(¸¤‚úÿÿÿÿ
+>
+java:S1604e"(Make this anonymous inner class a lambda(ó º‘
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ŽÏ»
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'project.MODEL.Autore'.( ¯†¶

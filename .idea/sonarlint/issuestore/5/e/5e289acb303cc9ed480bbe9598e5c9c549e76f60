@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯¬ ®
+<
+java:S3010"!Remove this assignment of "conn".(úÁ¥áùÿÿÿÿ
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(úÁ¥áùÿÿÿÿ
+Q
+java:S2696&"6Make the enclosing method "static" or remove this set.(úÁ¥áùÿÿÿÿ
+Q
+java:S6437&"6Revoke and change this password, as it is compromised.(úÁ¥áùÿÿÿÿ

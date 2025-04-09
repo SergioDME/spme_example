@@ -1,0 +1,7 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŸÞÎúÿÿÿÿ
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õ»–Í
+V	java:S125"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(à‡¯
+Q	java:S125"<This block of commented-out lines of code should be removed.(ß¸¦

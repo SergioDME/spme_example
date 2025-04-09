@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ºÃ÷ıÿÿÿÿ
+O
+java:S1161":Add the "@Override" annotation above this method signature(Ã‘¬=
+U
+java:S1161":Add the "@Override" annotation above this method signature(ÇÏ¬Åúÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+Z
+java:S1128"?Remove this unused import 'project.MODEL.ArticoloSuConferenza'.(àŞÍşÿÿÿÿ
+S
+java:S1128	"=Remove this unused import 'project.enumerazioni.PERIOD_ENUM'.(Á¸Åü

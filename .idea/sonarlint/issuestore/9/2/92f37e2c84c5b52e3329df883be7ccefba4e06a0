@@ -1,0 +1,50 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ÀÏ±
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÁıšÚşÿÿÿÿ
+j
+java:S2095I"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÁıšÚşÿÿÿÿ
+P
+java:S2479":Remove the non-escaped \u0009 character from this literal.(òÏİ
+U
+java:S2479 ":Remove the non-escaped \u0009 character from this literal.(˜ŠœŞøÿÿÿÿ
+U
+java:S2479!":Remove the non-escaped \u0009 character from this literal.(äğùÕúÿÿÿÿ
+P
+java:S2479"":Remove the non-escaped \u0009 character from this literal.(òÏİ
+O
+java:S2479#":Remove the non-escaped \u0009 character from this literal.(¡ŞŠ/
+P
+java:S2479$":Remove the non-escaped \u0009 character from this literal.(®ú¿€
+U
+java:S2479&":Remove the non-escaped \u0009 character from this literal.(¦Ò°§ÿÿÿÿÿ
+U
+java:S2479(":Remove the non-escaped \u0009 character from this literal.(²„šÅÿÿÿÿÿ
+U
+java:S2479)":Remove the non-escaped \u0009 character from this literal.(ÓİÙ†üÿÿÿÿ
+U
+java:S2479+":Remove the non-escaped \u0009 character from this literal.(ÉÓ¼Šüÿÿÿÿ
+A
+java:S1168B"+Return an empty collection instead of null.(¥¹ï
+P
+java:S2479K":Remove the non-escaped \u0009 character from this literal.(òÏİ
+U
+java:S2479L":Remove the non-escaped \u0009 character from this literal.(˜ŠœŞøÿÿÿÿ
+U
+java:S2479M":Remove the non-escaped \u0009 character from this literal.(äğùÕúÿÿÿÿ
+P
+java:S2479N":Remove the non-escaped \u0009 character from this literal.(òÏİ
+O
+java:S2479O":Remove the non-escaped \u0009 character from this literal.(¡ŞŠ/
+P
+java:S2479P":Remove the non-escaped \u0009 character from this literal.(®ú¿€
+U
+java:S2479R":Remove the non-escaped \u0009 character from this literal.(¦Ò°§ÿÿÿÿÿ
+U
+java:S2479T":Remove the non-escaped \u0009 character from this literal.(²„šÅÿÿÿÿÿ
+U
+java:S2479U":Remove the non-escaped \u0009 character from this literal.(ÓİÙ†üÿÿÿÿ
+U
+java:S2479W":Remove the non-escaped \u0009 character from this literal.(ÉÓ¼Šüÿÿÿÿ

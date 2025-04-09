@@ -1,0 +1,13 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Øø££
+
+java:S1319"iThe type of "violatons" should be an interface such as "List" rather than the implementation "ArrayList".(ÒÁÍÉ
+~
+java:S1319""cThe type of "vio" should be an interface such as "List" rather than the implementation "ArrayList".(˜Ë”™ÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áñ™ù
+l	java:S116"WRename this field "layer_allows" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç„¶ÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÎÝ‚ýÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áñ™ù
+7
+java:S1116!"Remove this empty statement.(¡¨½‘ûÿÿÿÿ

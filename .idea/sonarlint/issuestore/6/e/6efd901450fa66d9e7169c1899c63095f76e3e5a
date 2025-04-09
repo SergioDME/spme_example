@@ -1,0 +1,142 @@
+
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Ú‰ƒ
+u
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽþÅ¸ÿÿÿÿÿ
+p
+java:S2293ý"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñêÄÕ
+^
+java:S1192º"GDefine a constant instead of duplicating this literal "Avviso" 4 times.(š¬­ò
+n
+java:S1192ü"RDefine a constant instead of duplicating this literal "doi gia presente" 10 times.(í°Î‘ýÿÿÿÿ
+k
+java:S1192ö"TDefine a constant instead of duplicating this literal "titolo gia presente" 9 times.(õ¦ˆã
+p
+java:S1192‡"TDefine a constant instead of duplicating this literal "Categoria associata" 3 times.(‘ÓÆƒüÿÿÿÿ
+h
+java:S1192¤"QDefine a constant instead of duplicating this literal "url gia presente" 4 times.(ú®ï†
+F
+java:S1066û"/Merge this if statement with the enclosing one.(à›´¾
+K
+java:S1066ž"/Merge this if statement with the enclosing one.(’Çäœøÿÿÿÿ
+K
+java:S1066Á"/Merge this if statement with the enclosing one.(·ËÛ¬ùÿÿÿÿ
+F
+java:S1066ë"/Merge this if statement with the enclosing one.(ÅÓôÓ
+F
+java:S1066˜"/Merge this if statement with the enclosing one.(¶¿•Â
+F
+java:S1066ž"/Merge this if statement with the enclosing one.(»­…£
+K
+java:S1066¤"/Merge this if statement with the enclosing one.(é¬¢½ûÿÿÿÿ
+K
+java:S1066£	"/Merge this if statement with the enclosing one.(«ÆÆØýÿÿÿÿ
+K
+java:S1066ª	"/Merge this if statement with the enclosing one.(œœõˆùÿÿÿÿ
+F
+java:S1066«	"/Merge this if statement with the enclosing one.(‹²ö
+E
+java:S1066±	"/Merge this if statement with the enclosing one.(øÄ‰
+K
+java:S1066Ç	"/Merge this if statement with the enclosing one.(¨óÜöùÿÿÿÿ
+K
+java:S1066È	"/Merge this if statement with the enclosing one.(—¯Ù§ÿÿÿÿÿ
+F
+java:S1066É	"/Merge this if statement with the enclosing one.(þ·™Ä
+K
+java:S1066Ï	"/Merge this if statement with the enclosing one.(¬“æ¿ùÿÿÿÿ
+K
+java:S1066æ	"/Merge this if statement with the enclosing one.(Àß°Èùÿÿÿÿ
+F
+java:S1066ç	"/Merge this if statement with the enclosing one.(‚ò¢À
+E
+java:S1066è	"/Merge this if statement with the enclosing one.(ÁÒ”-
+K
+java:S1066î	"/Merge this if statement with the enclosing one.(Ÿ¼¶÷øÿÿÿÿ
+F
+java:S1066€
+"/Merge this if statement with the enclosing one.(ØãÉ˜
+F
+java:S1066†
+"/Merge this if statement with the enclosing one.(ƒÿ€€
+K
+java:S1066‡
+"/Merge this if statement with the enclosing one.(²Ó‘Éùÿÿÿÿ
+K
+java:S1066ˆ
+"/Merge this if statement with the enclosing one.(¨òä·ýÿÿÿÿ
+F
+java:S1066š
+"/Merge this if statement with the enclosing one.(ØãÉ˜
+F
+java:S1066 
+"/Merge this if statement with the enclosing one.(ƒÿ€€
+K
+java:S1066¡
+"/Merge this if statement with the enclosing one.(²Ó‘Éùÿÿÿÿ
+K
+java:S1066¢
+"/Merge this if statement with the enclosing one.(¨òä·ýÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðìØÿÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðìØÿÿÿÿÿ
+g	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€„Š¡
+?
+java:S5411×"(Use a primitive boolean expression here.(¶µÇ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÕÞÛüÿÿÿÿ
+d	java:S116%"PRename this field "ADMIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÎÞ
+v
+java:S1450,"`Remove the "modificaMateriale" field and declare it as a local variable in the relevant methods.(ÇÆ¹ì
+
+java:S1450#"dRemove the "portaleAmministratore" field and declare it as a local variable in the relevant methods.(ö˜ŽÇüÿÿÿÿ
+T
+java:S1854I">Remove this useless assignment to local variable "controller".(¯òõŠ
+E
+java:S1481I"/Remove this unused "controller" local variable.(¯òõŠ
+V
+java:S1854‰":Remove this useless assignment to local variable "dialog".(•ÜºŸûÿÿÿÿ
+G
+java:S1481‰"+Remove this unused "dialog" local variable.(•ÜºŸûÿÿÿÿ
+Y
+java:S1854Ï"BRemove this useless assignment to local variable "listaMateriali".(†Ú‰ƒ
+Y
+java:S1854Ú"=Remove this useless assignment to local variable "listaRiga".(ŽþÅ¸ÿÿÿÿÿ
+8	java:S131ä""Add a default case to this switch.(øà÷ö
+V
+java:S1854ý"?Remove this useless assignment to local variable "listaAutori".(ñêÄÕ
+2
+java:S3626´"Remove this redundant jump.(ûÁÝ…
+V
+java:S1117¦":Rename "autore" which hides the field declared at line 36.(²æâ¥ÿÿÿÿÿ
+V
+java:S1117Ö":Rename "autore" which hides the field declared at line 36.(²æâ¥ÿÿÿÿÿ
+8
+java:S1116à"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+]
+java:S1126ï"AReplace this if-then-else statement by a single return statement.(Þº˜óùÿÿÿÿ
+X
+java:S1126’"AReplace this if-then-else statement by a single return statement.(®ùÍ”
+]
+java:S1126µ"AReplace this if-then-else statement by a single return statement.(á¬¤µøÿÿÿÿ
+]
+java:S1126ß"AReplace this if-then-else statement by a single return statement.(—ùØØüÿÿÿÿ
+i
+java:S3776ý"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.( •“¦
+X
+java:S1126Œ"AReplace this if-then-else statement by a single return statement.(ÍÅÿÏ
+L
+java:S1172¶"0Remove this unused method parameter "materiale".(—Ôìðøÿÿÿÿ
+8	java:S131â""Add a default case to this switch.(ôá‰ž
+X
+java:S1858â"A"getTipo" returns a string, there's no need to call "toString()".(ôá‰ž
+i
+java:S3776¼	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Î“ã
+n
+java:S3776Ú	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ë•“ùüÿÿÿÿ
+@
+java:S1940å	")Use the opposite operator ("!=") instead.(µ°ð­
+@
+java:S1940…
+")Use the opposite operator ("!=") instead.(Û¥Œ¨
+@
+java:S1940Ÿ
+")Use the opposite operator ("!=") instead.(Û¥Œ¨

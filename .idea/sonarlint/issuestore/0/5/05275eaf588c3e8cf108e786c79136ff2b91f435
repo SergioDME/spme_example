@@ -1,0 +1,16 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+e
+java:S2095D"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷ØŸŞ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(şÜùóúÿÿÿÿ
+j
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µ©óÑøÿÿÿÿ
+j
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô«™­ùÿÿÿÿ
+2
+java:S1116>"Remove this empty statement.(¾×ıÓ
+A
+java:S1128"+Remove this unused import 'java.sql.Types'.(»¤¤Š
+K
+java:S1128"0Remove this unused import 'project.MODEL.Libro'.(êöôÛşÿÿÿÿ

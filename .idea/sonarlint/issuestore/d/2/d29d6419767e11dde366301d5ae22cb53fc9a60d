@@ -1,0 +1,46 @@
+
+o
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÖ¯
+p
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Ãé
+j
+java:S1192H"ODefine a constant instead of duplicating this literal "supercategoria" 4 times.(Ÿ¦¦‰úÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+e
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—íÆ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(èı¬¸ıÿÿÿÿ
+e
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±å£½
+e
+java:S2095m"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²ÔôÙ
+k
+java:S2095©"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Âş¶àùÿÿÿÿ
+d
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(õŸ¥Q
+j
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ãæÃÉÿÿÿÿÿ
+j
+java:S2095X"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ú·ªüÿÿÿÿ
+f
+java:S2095˜"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­ƒ‰œ
+1
+java:S36269"Remove this redundant jump.(ûÁİ…
+1
+java:S3626;"Remove this redundant jump.(ûÁİ…
+@
+java:S1940…")Use the opposite operator ("!=") instead.(ª¤çå
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+2
+java:S3626 "Remove this redundant jump.(ûÁİ…
+2
+java:S3626¢"Remove this redundant jump.(ûÁİ…
+B
+java:S1168Â"+Return an empty collection instead of null.(¥¹ï
+J
+java:S1128"4Remove this unused import 'project.MODEL.Citazione'.(ş»Ìß
+K
+java:S1128"0Remove this unused import 'project.MODEL.Libro'.(êöôÛşÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'project.MODEL.Materiale'.(†î§ƒ

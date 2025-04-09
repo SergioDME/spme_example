@@ -1,0 +1,28 @@
+
+]
+java:S1192B"GDefine a constant instead of duplicating this literal "Arial" 14 times.(‹ô²
+?
+java:S1604Ê"(Make this anonymous inner class a lambda(ó º‘
+?
+java:S1604Ù"(Make this anonymous inner class a lambda(û¼¢ğ
+?
+java:S1604ã"(Make this anonymous inner class a lambda(Œ¼éô
+?
+java:S1604í"(Make this anonymous inner class a lambda(¹³ÅÌ
+>
+java:S5411Ì"(Use a primitive boolean expression here.(—½Ác
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ï»
+G
+java:S1948"",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+d
+java:S32520"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+Y
+java:S3252O">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(‹°×éúÿÿÿÿ
+Y
+java:S3252e">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(¢ã£ìúÿÿÿÿ
+F
+java:S1481™"/Remove this unused "dateFormat" local variable.(Şá¬€
+@
+java:S1940°")Use the opposite operator ("!=") instead.(îüãâ
+Z
+java:S3252Ã">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(çäàÎùÿÿÿÿ

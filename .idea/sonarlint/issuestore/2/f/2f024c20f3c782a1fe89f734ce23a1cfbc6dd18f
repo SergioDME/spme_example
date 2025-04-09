@@ -1,0 +1,42 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+e
+java:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ø”Òí
+k
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úäíÅûÿÿÿÿ
+f
+java:S2095—"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Òâé
+e
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒÛÂ·
+k
+java:S2095­"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(³¸øÿÿÿÿ
+e
+java:S2095l"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷ØŸŞ
+f
+java:S2095Ç"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±Ú¡¨
+e
+java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(İñóá
+]
+java:S1126Ó"AReplace this if-then-else statement by a single return statement.(©¹‹Ÿÿÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+F
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'project.MODEL.ArticoloSuConferenza'.(àŞÍşÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'project.MODEL.Autore'.( ¯†¶
+P
+java:S1128"5Remove this unused import 'project.MODEL.Conferenza'.(‘¢ãùÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'project.MODEL.Dataset'.(°¡ î
+K
+java:S1128"0Remove this unused import 'project.MODEL.Libro'.(êöôÛşÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'project.MODEL.Pubblicazione'.(ºŠêÆùÿÿÿÿ
+s
+java:S1128"XRemove this unused import 'project.struttureDiAppoggio.RigaTabellaArticoloSuConferenza'.(ìÃü¼üÿÿÿÿ
+j
+java:S1128"URemove this unused import 'project.struttureDiAppoggio.RigaTabellaArticoloSuRivista'.(ËÓ$
+a
+java:S1128"KRemove this unused import 'project.struttureDiAppoggio.RigaTabellaDataset'.(Ú¸™×

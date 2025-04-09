@@ -1,0 +1,63 @@
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Çı
+n
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Çı
+[
+java:S1192^"EDefine a constant instead of duplicating this literal "	\r
+" 3 times.(¦§Öİ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+d
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Š–‘]
+d
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Š–‘]
+P
+java:S2479"":Remove the non-escaped \u0009 character from this literal.(òÏİ
+U
+java:S2479#":Remove the non-escaped \u0009 character from this literal.(˜ŠœŞøÿÿÿÿ
+U
+java:S2479$":Remove the non-escaped \u0009 character from this literal.(äğùÕúÿÿÿÿ
+P
+java:S2479%":Remove the non-escaped \u0009 character from this literal.(òÏİ
+O
+java:S2479&":Remove the non-escaped \u0009 character from this literal.(¡ŞŠ/
+P
+java:S2479'":Remove the non-escaped \u0009 character from this literal.(®ú¿€
+U
+java:S2479)":Remove the non-escaped \u0009 character from this literal.(¦Ò°§ÿÿÿÿÿ
+U
+java:S2479+":Remove the non-escaped \u0009 character from this literal.(²„šÅÿÿÿÿÿ
+U
+java:S2479,":Remove the non-escaped \u0009 character from this literal.(ÓİÙ†üÿÿÿÿ
+U
+java:S2479.":Remove the non-escaped \u0009 character from this literal.(ÉÓ¼Šüÿÿÿÿ
+M
+java:S1135C"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+h
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(™Ûµè
+U
+java:S2479Z":Remove the non-escaped \u0009 character from this literal.(²„šÅÿÿÿÿÿ
+U
+java:S2479[":Remove the non-escaped \u0009 character from this literal.(ÓİÙ†üÿÿÿÿ
+U
+java:S2479\":Remove the non-escaped \u0009 character from this literal.(šÜşÿÿÿÿÿ
+P
+java:S2479^":Remove the non-escaped \u0009 character from this literal.(¦§Öİ
+P
+java:S2479f":Remove the non-escaped \u0009 character from this literal.(ÛØœÎ
+P
+java:S2479g":Remove the non-escaped \u0009 character from this literal.(ŒªÆâ
+P
+java:S2479h":Remove the non-escaped \u0009 character from this literal.(¦§Öİ
+O
+java:S2479i":Remove the non-escaped \u0009 character from this literal.(¼“×i
+P
+java:S2479j":Remove the non-escaped \u0009 character from this literal.(£şÜ
+P
+java:S2479k":Remove the non-escaped \u0009 character from this literal.(¦§Öİ
+P
+java:S2479l":Remove the non-escaped \u0009 character from this literal.(õÛ„ú
+P
+java:S2479m":Remove the non-escaped \u0009 character from this literal.(¦§Öİ
+P
+java:S2479n":Remove the non-escaped \u0009 character from this literal.(ìÏ‡Å

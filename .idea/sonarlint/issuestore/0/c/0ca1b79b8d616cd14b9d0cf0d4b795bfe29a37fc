@@ -1,0 +1,24 @@
+
+t
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÖÈÓüÿÿÿÿ
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÖÈÓüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+e
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ó½ìË
+j
+java:S2095f"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸÷…ğûÿÿÿÿ
+j
+java:S2095F"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸÷…ğûÿÿÿÿ
+k
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ë½¤¹úÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷Ôïàşÿÿÿÿ
+A
+java:S1168_"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168~"+Return an empty collection instead of null.(¥¹ï
+P
+java:S1128"5Remove this unused import 'project.MODEL.Conferenza'.(‘¢ãùÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'project.MODEL.ParolaChiave'.(Ô©¥ï

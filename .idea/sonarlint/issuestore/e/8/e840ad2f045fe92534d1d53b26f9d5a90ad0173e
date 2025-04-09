@@ -1,0 +1,24 @@
+
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÿìØøÿÿÿÿ
+o
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¢šû
+o
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(©œÕ¤
+a
+java:S1192O"FDefine a constant instead of duplicating this literal "Arial" 4 times.(ä–ñÊúÿÿÿÿ
+C
+java:S1604["(Make this anonymous inner class a lambda(¸Êä¼ÿÿÿÿÿ
+>
+java:S1604n"(Make this anonymous inner class a lambda(¼‰‚ø
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ŽÏ»
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+€
+java:S1149/"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨ÿìØøÿÿÿÿ
+{
+java:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ì¢šû
+{
+java:S11497"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©œÕ¤
+d
+java:S3252'"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ

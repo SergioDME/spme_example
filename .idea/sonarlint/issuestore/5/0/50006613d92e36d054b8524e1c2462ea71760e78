@@ -1,0 +1,35 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ê¤û¢
+f
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷ØŸŞ
+d
+java:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—ÆÏ-
+e
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(İñóá
+e
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ø”Òí
+f
+java:S2095À"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±Ú¡¨
+e
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àÈğ§
+k
+java:S2095¡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(åÆ˜©ûÿÿÿÿ
+>	java:S108D")Either remove or fill this block of code.(É®£
+]
+java:S1126Ì"AReplace this if-then-else statement by a single return statement.(©¹‹Ÿÿÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+F
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'project.MODEL.Autore'.( ¯†¶
+S
+java:S1128"8Remove this unused import 'project.MODEL.Pubblicazione'.(ºŠêÆùÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'project.MODEL.RisorsaOnline'.(¥öÛüıÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'project.enumerazioni.GENERE_ENUM'.(ĞÛÚ
+^
+java:S1128"IRemove this unused import 'project.struttureDiAppoggio.RigaTabellaLibro'.(¡‹Û

@@ -1,0 +1,16 @@
+
+\
+java:S11927"FDefine a constant instead of duplicating this literal "Arial" 3 times.(òŞÑÌ
+>
+java:S16041"(Make this anonymous inner class a lambda(êúè®
+C
+java:S1604<"(Make this anonymous inner class a lambda(¸¤µ›ùÿÿÿÿ
+C
+java:S1604J"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ï»
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+b
+java:S3252!"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+K
+java:S1128"0Remove this unused import 'project.MODEL.Libro'.(êöôÛşÿÿÿÿ

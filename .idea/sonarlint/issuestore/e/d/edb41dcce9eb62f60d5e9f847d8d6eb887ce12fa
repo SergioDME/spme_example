@@ -1,0 +1,32 @@
+
+]
+java:S1192E"GDefine a constant instead of duplicating this literal "Arial" 17 times.(‹ô²
+?
+java:S1604Õ"(Make this anonymous inner class a lambda(˜ÿ±ò
+?
+java:S1604à"(Make this anonymous inner class a lambda(Œ¼éô
+?
+java:S1604ë"(Make this anonymous inner class a lambda(¹³ÅÌ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ï»
+G
+java:S1948$",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+b
+java:S32523"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+Y
+java:S3252R">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(‹°×éúÿÿÿÿ
+Y
+java:S3252i">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(¢ã£ìúÿÿÿÿ
+M
+java:S1481"1Remove this unused "valueColonne" local variable.(Ò„şçúÿÿÿÿ
+E
+java:S1481˜"/Remove this unused "valueRighe" local variable.(éÜÏ
+F
+java:S1481­"/Remove this unused "dateFormat" local variable.(Şá¬€
+E
+java:S1481®")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿ
+Z
+java:S3252¸">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(çäàÎùÿÿÿÿ
+T
+java:S1128">Remove this unused import 'com.toedter.calendar.JDateChooser'.(ëèÈ
+H
+java:S1128"2Remove this unused import 'project.MODEL.Dataset'.(°¡ î

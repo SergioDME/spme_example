@@ -1,0 +1,81 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+j
+java:S2095k"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(éÚêòıÿÿÿÿ
+e
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(åÒÀÚ
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ã•Ù¶
+j
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(æÇ½ñşÿÿÿÿ
+e
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( ¦ÃÙ
+1
+java:S36267"Remove this redundant jump.(ûÁİ…
+1
+java:S36269"Remove this redundant jump.(ûÁİ…
+U
+java:S2479Z":Remove the non-escaped \u0009 character from this literal.(çøØıÿÿÿÿ
+U
+java:S2479[":Remove the non-escaped \u0009 character from this literal.(€£‡Áÿÿÿÿÿ
+P
+java:S2479\":Remove the non-escaped \u0009 character from this literal.(÷‹™
+U
+java:S2479]":Remove the non-escaped \u0009 character from this literal.(³¹™öıÿÿÿÿ
+U
+java:S2479^":Remove the non-escaped \u0009 character from this literal.(©“Ø³ÿÿÿÿÿ
+P
+java:S2479_":Remove the non-escaped \u0009 character from this literal.(©æå²
+U
+java:S2479`":Remove the non-escaped \u0009 character from this literal.(ôØ×Ÿûÿÿÿÿ
+U
+java:S2479a":Remove the non-escaped \u0009 character from this literal.(åéüÿÿÿÿ
+U
+java:S2479b":Remove the non-escaped \u0009 character from this literal.(¼ûó¶øÿÿÿÿ
+U
+java:S2479c":Remove the non-escaped \u0009 character from this literal.(ö¯éÀüÿÿÿÿ
+U
+java:S2479d":Remove the non-escaped \u0009 character from this literal.(ö¾ü«ÿÿÿÿÿ
+P
+java:S2479e":Remove the non-escaped \u0009 character from this literal.(ÊåÆÁ
+U
+java:S2479f":Remove the non-escaped \u0009 character from this literal.(ÁÅçĞıÿÿÿÿ
+P
+java:S2479g":Remove the non-escaped \u0009 character from this literal.(İ™¾¦
+U
+java:S2479h":Remove the non-escaped \u0009 character from this literal.(ÚÒÿ¤şÿÿÿÿ
+U
+java:S2479i":Remove the non-escaped \u0009 character from this literal.(ãùÚĞúÿÿÿÿ
+U
+java:S2479l":Remove the non-escaped \u0009 character from this literal.(²’Œ÷üÿÿÿÿ
+P
+java:S2479m":Remove the non-escaped \u0009 character from this literal.(ñ‡ì˜
+P
+java:S2479n":Remove the non-escaped \u0009 character from this literal.(÷‹™
+U
+java:S2479o":Remove the non-escaped \u0009 character from this literal.(³¹™öıÿÿÿÿ
+U
+java:S2479p":Remove the non-escaped \u0009 character from this literal.(©“Ø³ÿÿÿÿÿ
+O
+java:S2479q":Remove the non-escaped \u0009 character from this literal.(ÃÊóG
+U
+java:S2479r":Remove the non-escaped \u0009 character from this literal.(ÕÜÿÙøÿÿÿÿ
+O
+java:S2479s":Remove the non-escaped \u0009 character from this literal.(……Ê5
+U
+java:S2479t":Remove the non-escaped \u0009 character from this literal.(³ü÷ùÿÿÿÿ
+U
+java:S2479u":Remove the non-escaped \u0009 character from this literal.(³©İûÿÿÿÿ
+U
+java:S2479v":Remove the non-escaped \u0009 character from this literal.(ëœä”ûÿÿÿÿ
+P
+java:S2479w":Remove the non-escaped \u0009 character from this literal.(õçÕò
+P
+java:S2479x":Remove the non-escaped \u0009 character from this literal.(í•ÁÙ
+U
+java:S2479y":Remove the non-escaped \u0009 character from this literal.(»ğ¥ºıÿÿÿÿ
+U
+java:S2479z":Remove the non-escaped \u0009 character from this literal.(öîÅ‚ùÿÿÿÿ
+M
+java:S1128
+"7Remove this unused import 'project.MODEL.ParolaChiave'.(Ô©¥ï

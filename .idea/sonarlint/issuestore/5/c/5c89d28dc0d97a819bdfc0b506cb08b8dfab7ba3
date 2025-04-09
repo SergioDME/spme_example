@@ -1,0 +1,48 @@
+
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÿìØøÿÿÿÿ
+o
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¢šû
+o
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(©œÕ¤
+a
+java:S1192~"FDefine a constant instead of duplicating this literal "Arial" 9 times.(†©¹àùÿÿÿÿ
+>
+java:S1604k"(Make this anonymous inner class a lambda(¼‰‚ø
+?
+java:S1604„"(Make this anonymous inner class a lambda(¿ìªÞ
+D
+java:S1604˜"(Make this anonymous inner class a lambda(¯ö„¦úÿÿÿÿ
+?
+java:S1604¥"(Make this anonymous inner class a lambda(ð°ññ
+?
+java:S1604²"(Make this anonymous inner class a lambda(½—à¼
+D
+java:S1604¿"(Make this anonymous inner class a lambda(Í¶œÓþÿÿÿÿ
+D
+java:S1604×"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ
+>
+java:S5411p"(Use a primitive boolean expression here.(îˆ™Å
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ŽÏ»
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+€
+java:S11492"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨ÿìØøÿÿÿÿ
+{
+java:S1149?"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ì¢šû
+{
+java:S1149B"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©œÕ¤
+d
+java:S3252+"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+r
+java:S3252d"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(É…‰¨
+t
+java:S3252d"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(É…‰¨
+1
+java:S3626{"Remove this redundant jump.(ûÁÝ…
+K
+java:S1128"0Remove this unused import 'project.MODEL.Libro'.(êöôÛþÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'project.MODEL.Materiale'.(†î§ƒ
+^
+java:S1128"IRemove this unused import 'project.struttureDiAppoggio.RigaTabellaLibro'.(¡‹Û

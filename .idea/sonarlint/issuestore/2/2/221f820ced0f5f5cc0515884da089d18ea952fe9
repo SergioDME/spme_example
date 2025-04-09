@@ -1,0 +1,22 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊá"
+j
+java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(“Ô›”şÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úäíÅûÿÿÿÿ
+d
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(üìŞ{
+e
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óè
+e
+java:S2095c"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷ØŸŞ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(øò€şÿÿÿÿ
+2
+java:S1116\"Remove this empty statement.(¾×ıÓ
+J
+java:S2695m"/This "PreparedStatement" only has 1 parameters.(½ı—úÿÿÿÿ
+E
+java:S2695o"/This "PreparedStatement" only has 1 parameters.(Ëİì„
+K
+java:S1128
+"0Remove this unused import 'project.MODEL.Libro'.(êöôÛşÿÿÿÿ
