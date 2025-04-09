@@ -15,7 +15,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <log4j2-version>2.19.0</log4j2-version>
-    <sonar.projectKey></sonar.projectKey>
+    <sonar.projectKey>oobd-2122-38</sonar.projectKey>
+    <sonar.host.url>http://localhost:9000</sonar.host.url>
   </properties>
 
   <dependencyManagement>
